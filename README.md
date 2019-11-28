@@ -6,6 +6,6 @@
 
 This is a App for finding the Credit Unions according to user eligibility citeria..
 
-[logo]: https://github.com/Xcode09/Portfolio/blob/master/images/applogo.png
+[logo]: https://github.com/Xcode09/Portfolio/blob/master/images/app logo .png
 
  
