@@ -11,8 +11,8 @@ This is a App for finding the Credit Unions according to user eligibility citeri
 #### ScreenShots
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/25749093/69798048-85a28580-11f2-11ea-8c7a-17049b767499.jpg" width="300" />
-                                                                                                                           <img src="https://user-images.githubusercontent.com/25749093/69793897-1bd2ad80-11eb-11ea-8265-eda30f970599.jpg" width="300" />
+  <img src="https://user-images.githubusercontent.com/25749093/69793897-1bd2ad80-11eb-11ea-8265-eda30f970599.jpg" width="350" />
+  <img src="https://user-images.githubusercontent.com/25749093/69798048-85a28580-11f2-11ea-8c7a-17049b767499.jpg" width="350" />                                                                                                                         
 </p>
 
 [Sosyal link](https://apps.apple.com/us/app/sosyal/id1487191572?ls=1)
