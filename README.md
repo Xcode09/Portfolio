@@ -1,9 +1,7 @@
 # Portfolio
 
 
-<p algin="center">
-  Sosyal
-</p>
+# Sosyal
 ### Get Sosyal And Ease Your Way Through The Restricted World Of Non-Profit Banking.
 
 This is a App for finding the Credit Unions according to user eligibility citeria..
@@ -13,7 +11,7 @@ This is a App for finding the Credit Unions according to user eligibility citeri
 
 #### ScreenShots
 
-<p float="center">
+<p align="center">
   <img src="https://user-images.githubusercontent.com/25749093/69800548-475b9500-11f7-11ea-8d6e-5e41b64d4a6d.jpg" width="350" />
   <img src="https://user-images.githubusercontent.com/25749093/69798048-85a28580-11f2-11ea-8c7a-17049b767499.jpg" width="350" />                                                                                                                         
 </p>
@@ -28,7 +26,7 @@ How to overcome bad eyesight or other diseases by healthy food. Discover nutriti
   <img src="https://user-images.githubusercontent.com/25749093/69800578-59d5ce80-11f7-11ea-9e74-07628627421d.png" width="350" height="350"/>                                                                                                   
 </p>
 #### ScreenShots
-<p float="left">
+<p algin="center">
       <img src="https://user-images.githubusercontent.com/25749093/69799800-c5b73780-11f5-11ea-9218-fdc3220d17c7.jpeg" width="200" />
   <img src="https://user-images.githubusercontent.com/25749093/69799798-c5b73780-11f5-11ea-8962-fc2c710ebedb.jpeg" width="200" />
   <img src="https://user-images.githubusercontent.com/25749093/69799795-c5b73780-11f5-11ea-88bf-b4615cb2635d.jpeg" width="200" /> 
