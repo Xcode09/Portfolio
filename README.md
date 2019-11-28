@@ -1,7 +1,9 @@
 # Portfolio
 
 
-## Sosyal {align=center}
+<p align="justify">
+  Sosyal
+</p>
 ### Get Sosyal And Ease Your Way Through The Restricted World Of Non-Profit Banking.
 
 This is a App for finding the Credit Unions according to user eligibility citeria..
