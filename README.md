@@ -20,11 +20,13 @@ This is a App for finding the Credit Unions according to user eligibility citeri
 
 
 # Nutrino
-### Nutrino is a nutritional guide at your fingertips!.How nature is making me me live longer and what is the specific role of a specific Vegetable, Fruit, Bean and Meat in my daily life. Know what you are Eating.
+### Nutrino is a nutritional guide at your fingertips!.How nature is making me  live longer and what is the specific role of a specific Vegetable, Fruit, Bean and Meat in my daily life. Know what you are Eating.
 How to overcome bad eyesight or other diseases by healthy food. Discover nutrition facts on terms of hundreds of foods complete with all vitamins, minerals, amino acids, fats, fatty acids, sugars, cholesterol and more compounds like caffeine and their impact on body in daily life
 <p float="left">
       <img src="https://user-images.githubusercontent.com/25749093/69799800-c5b73780-11f5-11ea-9218-fdc3220d17c7.jpeg" width="200" />
   <img src="https://user-images.githubusercontent.com/25749093/69799798-c5b73780-11f5-11ea-8962-fc2c710ebedb.jpeg" width="200" />
   <img src="https://user-images.githubusercontent.com/25749093/69799795-c5b73780-11f5-11ea-88bf-b4615cb2635d.jpeg" width="200" /> 
 </p>
+
+[Nutrino link](https://apps.apple.com/pk/app/nutrino-health-nutrition/id1462954732)
 
